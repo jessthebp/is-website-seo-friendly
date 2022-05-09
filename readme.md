@@ -1,2 +1,4 @@
-## This is a work in progress node package to do some of my more reguar SEO tasks. 
+# is-website-seo-friendly
+does a basic automated seo audit of the page in question
 
+work in progress
